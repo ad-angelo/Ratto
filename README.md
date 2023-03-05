@@ -1,6 +1,6 @@
 ## Ratto
 
-<img src="https://github.com/ad-angelo/ratto-flutter/blob/main/assets/icon_ratto.png?raw=true" width="250" align=left>
+<img src="https://github.com/ad-angelo/ratto/icon_ratto.png?raw=true" width="250" align=left>
 
 **Gestion de budget**
 
